@@ -1,0 +1,19 @@
+.container{
+  margin-bottom: 70px;
+}
+.name{
+  text-align: center;
+  color: coral;
+}
+.me{
+  padding-left: 100px;
+}
+.myself{
+  padding: 60px 40px;
+  background-color:#eff4fd;
+  border-radius: 20px;
+}
+img {
+  width: 500px;
+ 
+}
