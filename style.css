@@ -1,3 +1,7 @@
+body{
+  margin: 0;
+  padding: 0;
+}
 .container{
   margin-bottom: 70px;
 }
@@ -5,15 +9,73 @@
   text-align: center;
   color: coral;
 }
+.sakib{
+  color: deepskyblue;
+  font-size: 70px;
+}
 .me{
-  padding-left: 100px;
+  padding-left: 60px;
+}
+.nav-link{
+  color: white;
 }
 .myself{
-  padding: 60px 40px;
+  padding: 20px 40px;
   background-color:#eff4fd;
   border-radius: 20px;
 }
 img {
   width: 500px;
- 
+}
+.high{
+  height: 250px;
+}
+/* .card-high{
+  height: 300px;
+} */
+.card{
+  height: 400px;
+  box-shadow: 5px 5px 10px gray;
+}
+/* .box{
+  height: 500px;
+} */
+.servic{
+  height: 300px;
+}
+.font{
+  font-size: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: left;
+}
+.icon{
+  position: absolute;
+width: 15% !important;
+background: #00A8CC;
+border-radius: 50%;
+}
+.choose1{
+  padding-left: 60px;
+  font-size: 20px;
+}
+.choose2{
+  padding-top: 25px;
+}
+.card-height{
+  height: 200px;
+  border-radius: 50px !important;
+  background-image: linear-gradient(#d4c6c6, #95dee5);
+}
+.service-color{
+  background-image: linear-gradient(white, #ba9595);
+}
+.foot{
+  background-color: rgb(48, 46, 46);
+  height: 100px;
+}
+footer{
+  text-align: center;
+  position: bottom;
+  padding: 10px 0px 0px 0px;
+  color: white;
 }
